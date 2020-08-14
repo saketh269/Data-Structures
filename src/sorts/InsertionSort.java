@@ -36,8 +36,8 @@ public class InsertionSort {
     public static void main(String args[])
     {
         InsertionSort I=new InsertionSort();
-        //Comparable[]a={9,5,7,3,2,5};
-        Comparable[]a={'s','a','k','e','t','h'};
+        Comparable[]a={9,5,7,3,2,5};
+        //Comparable[]a={'s','a','k','e','t','h'};
         I.sort(a);
         I.print(a);
     }
