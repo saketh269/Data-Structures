@@ -1,1 +1,1 @@
-Data Structures through java
+Data Structures
