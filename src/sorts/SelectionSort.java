@@ -37,7 +37,7 @@ public class SelectionSort {
     {
         SelectionSort S=new SelectionSort();
         Comparable[]a={9,5,7,3,2,5};
-        //Comparable[]a={'s','a','k','e','t','h'}
+        
         S.sort(a);
         S.print(a);
     }
